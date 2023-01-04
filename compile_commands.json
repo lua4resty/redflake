@@ -1,0 +1,15 @@
+[
+  {
+    "directory": "./",
+    "arguments": [
+      "cc",
+      "-std=c99",
+      "-Wall",
+      "-O2",
+      "-o",
+      "redflake",
+      "redflake.c"
+    ],
+    "file": "redflake.c"
+  }
+]

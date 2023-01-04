@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Fleet ###
+.fleet/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
